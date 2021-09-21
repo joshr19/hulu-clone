@@ -1,0 +1,8 @@
+.results__container{
+    background-image: linear-gradient(to right, #051421,#042727); 
+}
+.results > div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
